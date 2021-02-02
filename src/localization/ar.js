@@ -1,0 +1,15 @@
+export default {
+  Login: 'تسجيل الدخول',
+  Register: 'تسجيل جديد',
+  'Forgot Password': 'نسيت كلمة المرور',
+  Profile: 'الملف الشخصي',
+  Save: 'حفظ',
+  Logout: 'تسجل الخروج',
+  Home: 'الرئيسية',
+  password: 'كلمة المرور',
+  Phone: 'رقم الهاتف',
+  Email: 'البريد الإلكتروني',
+  'First name': 'الاسم الاول',
+  'Last name': 'الاسم الاخير',
+  Send: 'إرسال',
+};
